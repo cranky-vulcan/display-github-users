@@ -1,0 +1,14 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+#output {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+li {
+    list-style-type: none;
+}
